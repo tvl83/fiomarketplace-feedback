@@ -93,5 +93,64 @@ Click _Import Private Key_
 
 Anchor will detect the public key and (2) show the accounts associated with that public/private keypair. (3) select the __@active__ account on the list and then (4) click __Import Account(s)__. You will be prompted for the password you created in the previous step.
 
-## List domain for sale
+On the Account(s) Overview page it should now show the FIO account in the list and at the top of the UI.
+
+![img_15.png](images/img_15.png)
+
+
+## Use FIO Marketplace
+This site is currently not very mobile friendly. It is highly recommended to use a computer when interacting with the FIO Marketplace. Please note this website is in active development so things might look different compared to the screenshots or instructions because of ongoing updates.
+
 Navigate to https://fiomarket.place
+
+Click the top right corner and then "Log In"
+
+![img_16.png](images/img_16.png)
+
+You will get a popup window with a large QR code. Click on "Launch Anchor" at the bottom.
+
+![img_17.png](images/img_17.png)
+
+You will get yet another pop up window "Open Anchor Wallet?". This will popup when ever you login to the site. Tick the checkbox to "Always allow..." if you don't want to have this popup every time. Click on "Open Anchor Wallet"
+
+![img_18.png](images/img_18.png)
+
+The next window that pops up is a __Signing Request__. Verify the account in the middle of the screen is the one you want to use (this is handy if you have multiple accounts set up) then click the blue lock icon in the bottom right, you'll be prompted for your anchor password. 
+
+![img_19.png](images/img_19.png)
+
+There is a bug that doesn't refresh the page right away sometimes so if nothing changes please refresh the page and the left-side links should show up. 
+
+Click "My Domains" and you should see the domain you registered earlier. To list it for sale click "List Domain for Sale".
+
+![img_20.png](images/img_20.png)
+
+On this page you can set the price you want for the domain. Remember you paid around 380 FIO to register it so you probably don't want to go less than that. I will list mine for 425 FIO. When I enter the price some information appears breaking down the costs for listing and the commission the marketplace takes out. Currently it's a _3% commission_ and _5 FIO_ listing fee. When the domain sells, I'll receive 388 FIO out of the 400. The 5 FIO is taken at the time of listing. 
+
+Click _Confirm_ when you're satisfied with the amount of FIO you will receive for the domain.
+
+![img_21.png](images/img_21.png)
+
+Another signing request window will popup detailing the information about the domain being listed for sale. Click the green pencil icon to sign the transaction.
+
+![img_22.png](images/img_22.png)
+
+The domain will now show up on the _My Listings_ page with details about the listing. You are able to cancel the listing from this page. 
+
+![img_23.png](images/img_23.png)
+
+(1) It also shows up on the dashboard page.
+
+You will notice that because you are the one listing the domain, the 'Buy Now' button is disabled. This is because you cannot buy a domain you listed yourself with the same account.
+
+(2) You can also purchase a domain from this page. Click "Buy Now" on any domain.
+
+![img_25.png](images/img_25.png)
+
+The purchase page summarizes the domain being purchased and for how much. 
+
+![img_26.png](images/img_26.png)
+
+Clicking "Buy" will pop up another _Signing Request_ window with a summary of the purchase information. Click the green pencil icon in the bottom right corner to purchase the domain.
+
+![img_27.png](images/img_27.png)
