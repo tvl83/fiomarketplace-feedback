@@ -20,12 +20,14 @@ FIO Internal Account (actor name): 3okzexo3vzt3
 
 ## Get Coins from Faucet
 Click on the Faucet link
+
 ![img_2.png](img_2.png)
 
 1. Copy the public key you saved from above, it starts with **FIO** and paste it in the _Pub Key_ field.
 2. Click _I'm not a robot_ and pass the captcha
 3. Click _Send Coins_.
-   ![img_3.png](img_3.png)
+
+![img_3.png](img_3.png)
 
 The faucet only works every 6 hours per address. You are able to create multiple addresses and get free tokens per address.
 
@@ -80,9 +82,11 @@ Set a secure password that you will remember but that is hard to guess. This pas
 We're going to choose _FIO (Testnet)_. To do this, (1) tick the checkbox _Show blockchain test networks_ then (2) click on the drop down menu and scroll to (3) _FIO (Testnet)_ and select it.
 
 Click _Import an existing Account_
+
 ![img_13.png](img_13.png)
 
 Click _Import Private Key_
+
 ![img_14.png](img_14.png)
 
 (1) Paste the private key saved earlier (it starts with a __5__).
