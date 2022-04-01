@@ -81,6 +81,8 @@ Set a secure password that you will remember but that is hard to guess. This pas
 
 We're going to choose _FIO (Testnet)_. To do this, (1) tick the checkbox _Show blockchain test networks_ then (2) click on the drop down menu and scroll to (3) _FIO (Testnet)_ and select it.
 
+![img_28.png](images/img_28.png)
+
 Click _Import an existing Account_
 
 ![img_13.png](images/img_13.png)
