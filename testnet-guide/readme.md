@@ -68,7 +68,7 @@ On the Account(s) Overview page it should now show the FIO account in the list a
 Visit https://greymass.github.io/fio-register/?testnet
 
 Click 'Sign in'.
-<img alt="img_29.png" src="img_29.png"/>
+<img alt="img_29.png" src="images/img_29.png"/>
 
 There will be a popup asking which wallet to use. Select Anchor.
 
@@ -87,16 +87,16 @@ Click the green pencil icon in the bottom right corner.
 <img alt="img_33.png" src="images/img_33.png"/>
 
 You will then get a screen like this. Click on the `Domain Management` tab
-<img alt="img_34.png" src="img_34.png"/>
+<img alt="img_34.png" src="images/img_34.png"/>
 
 Click on `Register Domain`
-<img alt="img_35.png" src="img_35.png"/>
+<img alt="img_35.png" src="images/img_35.png"/>
 
 Make sure you have enough (1) FIO available for the (2) Domain Registration Fee. Fill out the (3) `Fio Domain` field and click (4) 'Register Domain'
-<img alt="img_36.png" src="img_36.png"/>
+<img alt="img_36.png" src="images/img_36.png"/>
 
 Anchor will popup with a _Signing Request_. Click the green pencil icon in the bottom right.
-<img alt="img_37.png" src="img_37.png"/>
+<img alt="img_37.png" src="images/img_37.png"/>
 
 ## Use FIO Marketplace
 This site is currently not very mobile friendly. It is highly recommended to use a computer when interacting with the FIO Marketplace. Please note this website is in active development so things might look different compared to the screenshots or instructions because of ongoing updates.
