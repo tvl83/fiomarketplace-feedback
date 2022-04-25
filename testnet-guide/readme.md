@@ -101,7 +101,7 @@ Anchor will popup with a _Signing Request_. Click the green pencil icon in the b
 ## Use FIO Marketplace
 This site is currently not very mobile friendly. It is highly recommended to use a computer when interacting with the FIO Marketplace. Please note this website is in active development so things might look different compared to the screenshots or instructions because of ongoing updates.
 
-Navigate to https://fiomarket.place
+Navigate to https://test.fiomarketplace.com
 
 Click the top right corner and then "Log In"
 
